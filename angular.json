@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "barth-financeiro"
+  "defaultProject": "barth-financeiro",
+  "cli": {
+    "analytics": "aa90b1dc-b3ff-4c40-ba3c-0a886afdf3ae"
+  }
 }
